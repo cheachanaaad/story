@@ -2,11 +2,12 @@
   "title": "엄마가 돌아온 날",
   "kind": "reading_manuscript",
   "planned_main_chapters": 120,
-  "written_main_chapters": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
-  "unwritten_main_range": [11, 120],
+  "written_main_chapters": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+  "unwritten_main_range": [21, 120],
   "written_side_chapters": 0,
-  "total_body_characters": 48809,
-  "count_method": "본문만, 공백 포함, 제목과 줄바꿈 제외",
+  "total_body_characters": 94770,
+  "count_method": "본문만, 공백 포함, 제목·줄바꿈·장면 구분 기호 제외",
+  "latest_batch": {"range": [11, 20], "body_characters": 45961},
   "chapters": [
     {"number": 1, "file": "chapters/001_죽은_사람에게_전화가_왔다.md", "body_characters": 5021, "git_blob_sha": "5b92dccd2e5574e976cba2746d88a9dfa0e4ef9e"},
     {"number": 2, "file": "chapters/002_아직_지어지지_않은_우리_집.md", "body_characters": 5165, "git_blob_sha": "2c52ffefc8b10c343fecc0a737b671ff690de051"},
@@ -17,6 +18,16 @@
     {"number": 7, "file": "chapters/007_못_받은_전화_한_통.md", "body_characters": 4543, "git_blob_sha": "aacb83d7218eb6c44168e03de5010a33634c804c"},
     {"number": 8, "file": "chapters/008_오늘_존재하는_번호.md", "body_characters": 4556, "git_blob_sha": "d53e61a34f9654954c2abef566be4baa950b4363"},
     {"number": 9, "file": "chapters/009_열일곱_살의_직장_동료.md", "body_characters": 4568, "git_blob_sha": "58a88e08c8990f6bdac2bb15408047410dd7bf39"},
-    {"number": 10, "file": "chapters/010_아이_이름을_쓰는_자리.md", "body_characters": 5465, "git_blob_sha": "6a485b55dec3377140220b73005a5e87b94a281b"}
+    {"number": 10, "file": "chapters/010_아이_이름을_쓰는_자리.md", "body_characters": 5465, "git_blob_sha": "6a485b55dec3377140220b73005a5e87b94a281b"},
+    {"number": 11, "file": "chapters/011_손녀는_무슨_반찬을_좋아했니.md", "body_characters": 4672, "git_blob_sha": "2b8c249502bd8596dc8400c1f2a37832cd432873"},
+    {"number": 12, "file": "chapters/012_기억기록실_첫날.md", "body_characters": 4598, "git_blob_sha": "d01f0ba9484d77bb1e68bbb849c2c3a86e9372b7"},
+    {"number": 13, "file": "chapters/013_틀리게_기억한_엄마.md", "body_characters": 4647, "git_blob_sha": "11b0678bd050ce325a532132fdbae3eefcd34dfb"},
+    {"number": 14, "file": "chapters/014_우리가_모르는_하린.md", "body_characters": 4507, "git_blob_sha": "51fe7005c46ed003a31f28d54142c22f4fef619f"},
+    {"number": 15, "file": "chapters/015_같은_아이_다른_결혼.md", "body_characters": 4592, "git_blob_sha": "efa53b4166fe34a9c2d113f46389eba95f964cf8"},
+    {"number": 16, "file": "chapters/016_오늘의_동선.md", "body_characters": 4606, "git_blob_sha": "f042c234478345cbec2f15f0cc98b6ec38de1f0f"},
+    {"number": 17, "file": "chapters/017_혼자_적는_보호자_칸.md", "body_characters": 4534, "git_blob_sha": "f5d0aae531296fb3f334e54271447a4a8cb6c970"},
+    {"number": 18, "file": "chapters/018_무료로_만들어드리겠습니다.md", "body_characters": 4685, "git_blob_sha": "4feabaa87ecd909e9cc801393bec5a285e9cb072"},
+    {"number": 19, "file": "chapters/019_사진을_싫어했던_게_아니야.md", "body_characters": 4503, "git_blob_sha": "0536b284de131319e9699bc1f7384e61c7efdd00"},
+    {"number": 20, "file": "chapters/020_아이_목소리를_들었다는_사람.md", "body_characters": 4617, "git_blob_sha": "5ca8ac3823539f5f7f68e20f3ce6c8ff362392ad"}
   ]
 }
