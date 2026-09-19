@@ -1,0 +1,22 @@
+{
+  "title": "엄마가 돌아온 날",
+  "kind": "reading_manuscript",
+  "planned_main_chapters": 120,
+  "written_main_chapters": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+  "unwritten_main_range": [11, 120],
+  "written_side_chapters": 0,
+  "total_body_characters": 48809,
+  "count_method": "본문만, 공백 포함, 제목과 줄바꿈 제외",
+  "chapters": [
+    {"number": 1, "file": "chapters/001_죽은_사람에게_전화가_왔다.md", "body_characters": 5021, "git_blob_sha": "5b92dccd2e5574e976cba2746d88a9dfa0e4ef9e"},
+    {"number": 2, "file": "chapters/002_아직_지어지지_않은_우리_집.md", "body_characters": 5165, "git_blob_sha": "2c52ffefc8b10c343fecc0a737b671ff690de051"},
+    {"number": 3, "file": "chapters/003_엄마는_지금_거스름돈을_세고_있다.md", "body_characters": 4886, "git_blob_sha": "bdc85e9d9524910ad5c66f9c9d652eed78b9b94e"},
+    {"number": 4, "file": "chapters/004_우리를_모르는_가족.md", "body_characters": 5069, "git_blob_sha": "29925d2f2dd9770bd12f3a6ffb26819652f6771f"},
+    {"number": 5, "file": "chapters/005_모든_사람이_미래를_아는_날.md", "body_characters": 4676, "git_blob_sha": "0cbd29c8ce660952db0d40daeb45f6e9ddf9daf9"},
+    {"number": 6, "file": "chapters/006_어제와_다른_사람들.md", "body_characters": 4860, "git_blob_sha": "cd4ae3506424d71cbdd7acdc53036d6c8e277dca"},
+    {"number": 7, "file": "chapters/007_못_받은_전화_한_통.md", "body_characters": 4543, "git_blob_sha": "aacb83d7218eb6c44168e03de5010a33634c804c"},
+    {"number": 8, "file": "chapters/008_오늘_존재하는_번호.md", "body_characters": 4556, "git_blob_sha": "d53e61a34f9654954c2abef566be4baa950b4363"},
+    {"number": 9, "file": "chapters/009_열일곱_살의_직장_동료.md", "body_characters": 4568, "git_blob_sha": "58a88e08c8990f6bdac2bb15408047410dd7bf39"},
+    {"number": 10, "file": "chapters/010_아이_이름을_쓰는_자리.md", "body_characters": 5465, "git_blob_sha": "6a485b55dec3377140220b73005a5e87b94a281b"}
+  ]
+}
